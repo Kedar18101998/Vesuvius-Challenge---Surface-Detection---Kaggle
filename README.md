@@ -1,4 +1,4 @@
-# Vesuvius Challenge – 2.5D UNet Inference
+# Vesuvius Challenge – 2.5D UNet Inference (link: https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection)
 
 This repository contains a **production-grade inference pipeline**
 for the Kaggle **Vesuvius Challenge – Surface Detection** competition.
